@@ -1,0 +1,24 @@
+{
+  "common": {
+    "version": "Versão",
+    "name":"Cartão Linak Desk",
+    "description": "Cartão para controlar a altura da secretária",
+    "invalid_configuration": "Configuraçãom inválida",
+    "desk_and_height_required": "Desk and height sensor are required",
+    "min_and_max_height_required": "`min_height` and `max_height` settings are required"
+  },
+  "editor": {
+    "name": "Name (Optional)",
+    "desk":"Desk Entity (Required)",
+    "height_sensor":"Height Sensor (Required)",
+    "connection_sensor":"Connection Sensor (Required)",
+    "moving_sensor":"Moving Sensor (Required)",
+    "min_height":"Min Height (Required)",
+    "max_height":"Max Height (Required)",
+    "presets":"Presets"
+  },
+  "status": {
+    "connected": "Connected",
+    "disconnected": "Disconnected"
+  }
+}
