@@ -1,10 +1,10 @@
 {
   "common": {
     "version": "Versão",
-    "name":"Cartão Linak Desk",
+    "name":"Cartão Secretária Linak",
     "description": "Cartão para controlar a altura da secretária",
-    "invalid_configuration": "Configuraçãom inválida",
-    "desk_and_height_required": "Desk and height sensor are required",
+    "invalid_configuration": "Configuração inválida",
+    "desk_and_height_required": "É necessário uma secretária e um sensor de altura",
     "min_and_max_height_required": "Necessário as configurações de `min_height` e `max_height`"
   },
   "editor": {
