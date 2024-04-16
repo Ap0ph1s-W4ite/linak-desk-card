@@ -5,20 +5,20 @@
     "description": "Cartão para controlar a altura da secretária",
     "invalid_configuration": "Configuraçãom inválida",
     "desk_and_height_required": "Desk and height sensor are required",
-    "min_and_max_height_required": "`min_height` and `max_height` settings are required"
+    "min_and_max_height_required": "Necessário as configurações de `min_height` e `max_height`"
   },
   "editor": {
-    "name": "Name (Optional)",
-    "desk":"Desk Entity (Required)",
-    "height_sensor":"Height Sensor (Required)",
-    "connection_sensor":"Connection Sensor (Required)",
-    "moving_sensor":"Moving Sensor (Required)",
-    "min_height":"Min Height (Required)",
-    "max_height":"Max Height (Required)",
-    "presets":"Presets"
+    "name": "Nome (Opcional)",
+    "desk":"Entidade da Secretária (Obrigatório)",
+    "height_sensor":"Sensor de Altura (Obrigatório)",
+    "connection_sensor":"Sensor de Ligação (Obrigatório)",
+    "moving_sensor":"Sensor de Movimento (Obrigatório)",
+    "min_height":"Altura Mínima (Obrigatório)",
+    "max_height":"Altura Máxima (Obrigatório)",
+    "presets":"Predefinições"
   },
   "status": {
-    "connected": "Connected",
-    "disconnected": "Disconnected"
+    "connected": "Ligado",
+    "disconnected": "Desligado"
   }
 }
